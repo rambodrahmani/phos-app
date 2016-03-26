@@ -7,7 +7,7 @@ Applicazione PHOS su Apple App Store: https://itunes.apple.com/it/app/phos/id964
 
 Alcune screen dell'APP di seguito.
 
-![Applicazione PHOS - PIC 1](screens/phos-1.png "Applicazione PHOS - PIC 1")
+![Applicazione PHOS - PIC 1](screens/phos-1.png =100x20 "Applicazione PHOS - PIC 1")
 
 ![Applicazione PHOS - PIC 2](screens/phos-2.PNG "Applicazione PHOS - PIC 2")
 
