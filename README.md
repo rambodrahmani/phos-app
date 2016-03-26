@@ -9,6 +9,8 @@ Alcune screen dell'APP di seguito.
 
 ![Applicazione PHOS - PIC 1](screens/phos-1.png =100x20 "Applicazione PHOS - PIC 1")
 
+<img src="screens/phos-1.png" alt="Drawing" style="width: 200px;"/>
+
 ![Applicazione PHOS - PIC 2](screens/phos-2.PNG "Applicazione PHOS - PIC 2")
 
 ![Applicazione PHOS - PIC 3](screens/phos-3.PNG "Applicazione PHOS - PIC 3")
